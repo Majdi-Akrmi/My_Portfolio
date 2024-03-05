@@ -4,7 +4,11 @@
 This is my Portfolio Website built using React, Tailwind CSS, and TypeScript.
 The website showcases my skills and projects as a full-stack developer and Data Engineer.
 
+## Portfolio Link
 
+You can check now my Portfolio Website on this link.
+
+https://majdi-akrmi-portfolio.netlify.app
 
 
 ## Screenshots
